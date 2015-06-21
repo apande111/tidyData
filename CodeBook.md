@@ -23,26 +23,26 @@ These signals were used to estimate variables of the feature vector for each pat
 
 ### Structure of output file result.txt
 
-Subject
-Activity
-Activity_Name
-mean & std (	tBodyAcc-XYZ
-	   	tGravityAcc-XYZ
-	   	tBodyAccJerk-XYZ
-		tBodyGyro-XYZ
-		tBodyGyroJerk-XYZ
-		tBodyAccMag
-		tGravityAccMag
-		tBodyAccJerkMag
-		tBodyGyroMag
-		tBodyGyroJerkMag
-		fBodyAcc-XYZ
-		fBodyAccJerk-XYZ
-		fBodyGyro-XYZ
-		fBodyAccMag
-		fBodyAccJerkMag
-		fBodyGyroMag
-		fBodyGyroJerkMag)
+* Subject
+* Activity
+* Activity_Name
+* mean & std (	tBodyAcc-XYZ
+*	   	tGravityAcc-XYZ
+*	   	tBodyAccJerk-XYZ
+*		tBodyGyro-XYZ
+*		tBodyGyroJerk-XYZ
+*		tBodyAccMag
+*		tGravityAccMag
+*		tBodyAccJerkMag
+*		tBodyGyroMag
+*		tBodyGyroJerkMag
+*		fBodyAcc-XYZ
+*		fBodyAccJerk-XYZ
+*		fBodyGyro-XYZ
+*		fBodyAccMag
+*		fBodyAccJerkMag
+*		fBodyGyroMag
+*		fBodyGyroJerkMag)
 
 ##### Note:
 mean(3) & std(3) of 8 XYZ variabls above = (3+3) * 8 = 48
